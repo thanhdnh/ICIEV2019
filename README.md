@@ -1,4 +1,4 @@
-# ICIEV2019
+# Image Inpainting Method Based on Mixed Median
 Image Inpainting Method Based on Mixed Median
 
 ##Please cite the paper:
