@@ -7,4 +7,4 @@ D. N. H. Thanh, V. B. S. Prasath, L. M. Hieu and H. Kawanaka, "Image Inpainting 
 doi: 10.1109/ICIEV.2019.8858556
 
 
-In order to run the program, you must run the demo.m and do not forget change the path at the first line of the demo.m. The result will be stored in the \proposed\ folder.
+In order to run the program, you must run the demo.m and do not forget to change the path in the first line of the demo.m. The result will be stored in the \proposed\ folder.
